@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1692031325 source:c:\users\tharindu\desktop\c coding\deposit complete 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
+1692031325 source:c:\users\tharindu\desktop\deposit complete 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
+1697177583 source:c:\users\tharindu\desktop\nibm se\project pf\deposit complete 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
